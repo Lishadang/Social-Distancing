@@ -1,1 +1,4 @@
 # Social-Distancing
+
+Social Distancing – the term that has taken the world by storm and is transforming the way we live. Social distancing has become a mantra around the world, transcending languages and cultures. I have made an application based on SOCIAL DISTANCING  using machine learning & deep learning in which I have used Yolo neural network (for object detection) and Dark net module (for framework) which can improvise the work of project .
+In this project we can use video, pictures or live cameras to detect the distancing between the people. If the two object has the distance of 6 feet it will highlight them with green signal and if the object are closer than 6 feet it will highlight them with the red signal. For processing images, we are using OpenCV(Open Source Computer Vision) and supports CPU and GPU computation. It is available on github for people to use.
